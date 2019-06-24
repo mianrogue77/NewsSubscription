@@ -1,0 +1,498 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"excep",
+				"exception"
+			],
+			[
+				"insta",
+				"instanceof"
+			],
+			[
+				"exception",
+				"$exception〔variable〕"
+			],
+			[
+				"exce",
+				"$exception〔variable〕"
+			],
+			[
+				"req",
+				"$request〔variable〕"
+			],
+			[
+				"conver",
+				"convertValidationExceptionToResponse〔function〕"
+			],
+			[
+				"create",
+				"createVerificationToken"
+			],
+			[
+				"US",
+				"USER_NOT_VERIFIED〔constant〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/News.php",
+			"settings":
+			{
+				"buffer_size": 433,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/User.php",
+			"settings":
+			{
+				"buffer_size": 1077,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/News/NewsController.php",
+			"settings":
+			{
+				"buffer_size": 1371,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/User/UserController.php",
+			"settings":
+			{
+				"buffer_size": 2532,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".env",
+			"settings":
+			{
+				"buffer_size": 635,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/index.php",
+			"settings":
+			{
+				"buffer_size": 2047,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription",
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/app",
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/app/Exceptions",
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/app/Http",
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/app/Http/Controllers",
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/app/Http/Controllers/News",
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/app/Http/Controllers/Topic",
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/app/Http/Controllers/User",
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/app/Http/Middleware",
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/app/Providers",
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/app/Traits",
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/config"
+	],
+	"file_history":
+	[
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/app/Http/Controllers/News/NewsController.php",
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/app/Traits/ApiResponser.php",
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/database/migrations/2019_06_19_185353_create_news_table.php",
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/app/Topic.php",
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/app/User.php",
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/.env",
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/app/Http/Controllers/User/UserController.php",
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/app/Http/Controllers/Topic/TopicController.php",
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/app/Http/Controllers/ApiController.php",
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/app/Exceptions/Handler.php",
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/database/migrations/2019_06_19_185225_create_topics_table.php",
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/routes/api.php",
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/app/News.php",
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/database/migrations/2019_06_19_201939_topic_user_table.php",
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/database/migrations/2019_06_19_185353_create_topics_table.php",
+		"/C/xampp/php/PEAR/docs/Table_example2.php",
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/app/Providers/AppServiceProvider.php",
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/vendor/laravel/framework/src/Illuminate/Notifications/Notifiable.php",
+		"/C/Sublime Text Build 3207 x64/Data/Packages/PHP Companion/PHP Companion.sublime-settings",
+		"/C/Sublime Text Build 3207 x64/Data/Packages/User/PHP Companion.sublime-settings",
+		"/E/R2_Diesel/PruebaTecnica/BackEndNewsSubscription/BackEndNewsSubscription.sublime-project"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/News.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 433,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								300,
+								300
+							]
+						],
+						"settings":
+						{
+							"SL.20.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.60.region_keys":
+							[
+							],
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/User.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1077,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								440,
+								440
+							]
+						],
+						"settings":
+						{
+							"SL.36.region_keys":
+							[
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/Http/Controllers/News/NewsController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1371,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								587,
+								587
+							]
+						],
+						"settings":
+						{
+							"SL.32.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/Http/Controllers/User/UserController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2532,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								790,
+								790
+							]
+						],
+						"settings":
+						{
+							"SL.54.region_keys":
+							[
+							],
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": ".env",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 635,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								169,
+								134
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "public/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2047,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								229,
+								229
+							]
+						],
+						"settings":
+						{
+							"SL.46.region_keys":
+							[
+							],
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "BackEndNewsSubscription.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 523.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
